@@ -1,0 +1,5 @@
+../Application/User/GALE.c:36:6:GALE_Init	16	static
+../Application/User/GALE.c:64:7:GALE_Update	80	static
+../Application/User/GALE.c:136:9:GetGALESpeed	0	static
+../Application/User/GALE.c:145:9:GetGALEInput	0	static
+../Application/User/GALE.c:149:6:GALE_Reset	8	static

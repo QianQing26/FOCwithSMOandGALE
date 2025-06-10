@@ -1,0 +1,8 @@
+../Application/User/matrix.c:24:6:matrix_multiply_2x2	0	static
+../Application/User/matrix.c:32:6:matrix_multiply_2x1	0	static
+../Application/User/matrix.c:38:6:matrix_multiply_1x2	0	static
+../Application/User/matrix.c:44:6:matrix_multiply_1x1	0	static
+../Application/User/matrix.c:49:6:matrix_inverse_1x1	0	static
+../Application/User/matrix.c:58:6:matrix_add_2x2	0	static
+../Application/User/matrix.c:66:6:matrix_sub_2x2	0	static
+../Application/User/matrix.c:74:6:matrix_copy_2x2	0	static

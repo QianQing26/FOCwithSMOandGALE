@@ -1,0 +1,6 @@
+D:/EduFile/STM32/Ytest/Src/mc_math.c:57:20:MCM_Clarke	16	static
+D:/EduFile/STM32/Ytest/Src/mc_math.c:287:24:MCM_Trig_Functions	8	static
+D:/EduFile/STM32/Ytest/Src/mc_math.c:125:13:MCM_Park	32	static
+D:/EduFile/STM32/Ytest/Src/mc_math.c:232:20:MCM_Rev_Park	32	static
+D:/EduFile/STM32/Ytest/Src/mc_math.c:332:16:MCM_Sqrt	0	static,ignoring_inline_asm
+D:/EduFile/STM32/Ytest/Src/mc_math.c:368:17:MCM_floatToIntBit	8	static

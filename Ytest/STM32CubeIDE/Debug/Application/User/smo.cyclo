@@ -1,0 +1,6 @@
+../Application/User/smo.c:18:6:SMO_InitFromSTO	3
+../Application/User/smo.c:52:6:SMO_CopyFromSTO	3
+../Application/User/smo.c:83:9:SMO_PLL_CalcSpeed	12
+../Application/User/smo.c:320:9:SMO_ExecutePLL	1
+../Application/User/smo.c:353:9:SMO_GetSpeed	1
+../Application/User/smo.c:358:9:saturation	1

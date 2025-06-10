@@ -1,0 +1,4 @@
+D:/EduFile/STM32/Ytest/Src/register_interface.c:48:16:RI_SetRegCommandParser	64	static
+D:/EduFile/STM32/Ytest/Src/register_interface.c:122:16:RI_GetRegCommandParser	136	static
+D:/EduFile/STM32/Ytest/Src/register_interface.c:1333:9:RI_GetIDSize	0	static
+D:/EduFile/STM32/Ytest/Src/register_interface.c:1366:16:RI_GetPtrReg	0	static

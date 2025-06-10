@@ -1,0 +1,8 @@
+D:/EduFile/STM32/Ytest/Src/stm32g4xx_mc_it.c:83:6:ADC1_2_IRQHandler	0	static
+D:/EduFile/STM32/Ytest/Src/stm32g4xx_mc_it.c:115:6:TIM1_UP_TIM16_IRQHandler	0	static
+D:/EduFile/STM32/Ytest/Src/stm32g4xx_mc_it.c:129:6:TIM1_BRK_TIM15_IRQHandler	8	static
+D:/EduFile/STM32/Ytest/Src/stm32g4xx_mc_it.c:163:6:DMA2_Channel2_IRQHandler	0	static
+D:/EduFile/STM32/Ytest/Src/stm32g4xx_mc_it.c:191:6:USART2_IRQHandler	8	static,ignoring_inline_asm
+D:/EduFile/STM32/Ytest/Src/stm32g4xx_mc_it.c:265:6:HardFault_Handler	8	static
+D:/EduFile/STM32/Ytest/Src/stm32g4xx_mc_it.c:283:6:SysTick_Handler	8	static
+D:/EduFile/STM32/Ytest/Src/stm32g4xx_mc_it.c:316:6:EXTI15_10_IRQHandler	0	static

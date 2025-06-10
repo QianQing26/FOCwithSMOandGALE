@@ -1,0 +1,4 @@
+D:/EduFile/STM32/Ytest/MCSDK_v5.Y.4-Full/MotorControl/MCSDK/MCLib/Any/Src/bus_voltage_sensor.c:50:17:VBS_GetBusVoltage_d	1
+D:/EduFile/STM32/Ytest/MCSDK_v5.Y.4-Full/MotorControl/MCSDK/MCLib/Any/Src/bus_voltage_sensor.c:80:17:VBS_GetAvBusVoltage_d	1
+D:/EduFile/STM32/Ytest/MCSDK_v5.Y.4-Full/MotorControl/MCSDK/MCLib/Any/Src/bus_voltage_sensor.c:105:17:VBS_GetAvBusVoltage_V	1
+D:/EduFile/STM32/Ytest/MCSDK_v5.Y.4-Full/MotorControl/MCSDK/MCLib/Any/Src/bus_voltage_sensor.c:131:17:VBS_CheckVbus	1

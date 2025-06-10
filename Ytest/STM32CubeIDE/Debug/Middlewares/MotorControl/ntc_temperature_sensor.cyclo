@@ -1,0 +1,7 @@
+D:/EduFile/STM32/Ytest/MCSDK_v5.Y.4-Full/MotorControl/MCSDK/MCLib/Any/Src/ntc_temperature_sensor.c:65:17:NTC_SetFaultState	3
+D:/EduFile/STM32/Ytest/MCSDK_v5.Y.4-Full/MotorControl/MCSDK/MCLib/Any/Src/ntc_temperature_sensor.c:134:13:NTC_Clear	1
+D:/EduFile/STM32/Ytest/MCSDK_v5.Y.4-Full/MotorControl/MCSDK/MCLib/Any/Src/ntc_temperature_sensor.c:103:13:NTC_Init	2
+D:/EduFile/STM32/Ytest/MCSDK_v5.Y.4-Full/MotorControl/MCSDK/MCLib/Any/Src/ntc_temperature_sensor.c:157:17:NTC_CalcAvTemp	3
+D:/EduFile/STM32/Ytest/MCSDK_v5.Y.4-Full/MotorControl/MCSDK/MCLib/Any/Src/ntc_temperature_sensor.c:208:17:NTC_GetAvTemp_d	1
+D:/EduFile/STM32/Ytest/MCSDK_v5.Y.4-Full/MotorControl/MCSDK/MCLib/Any/Src/ntc_temperature_sensor.c:224:16:NTC_GetAvTemp_C	2
+D:/EduFile/STM32/Ytest/MCSDK_v5.Y.4-Full/MotorControl/MCSDK/MCLib/Any/Src/ntc_temperature_sensor.c:270:17:NTC_CheckTemp	1

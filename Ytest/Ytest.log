@@ -1,0 +1,82 @@
+2025-05-11 15:55:29,999 DEBUG [Main.lambda$run$0] Arguments: [-ioc, D:\EduFile\STM32\Ytest\Ytest.ioc, -xdm, D:\EduFile\STM32\Ytest\Ytest.wb_def]
+2025-05-11 15:55:30,005 DEBUG [ArgsValue.readPropertiesFile] [AppConfig] pack.source = "D:\Program Files (x86)\STMicroelectronics\MC_SDK_5.Y.4\Middlewares\ST\MotorControl" 
+2025-05-11 15:55:30,006 DEBUG [ArgsValue.readPropertiesFile] [UserConfig] pack.source not found
+2025-05-11 15:55:30,006 DEBUG [ArgsValue.getConfigProperties] pack.source = "../../../../Middlewares/ST/MotorControl"
+2025-05-11 15:55:30,015 DEBUG [ArgsValue.lambda$retrieve$2] CLI_ARG[xdm]: D:\EduFile\STM32\Ytest\Ytest.wb_def
+2025-05-11 15:55:30,016 DEBUG [ArgsValue.lambda$retrieve$2] CLI_ARG[ioc]: D:\EduFile\STM32\Ytest\Ytest.ioc
+2025-05-11 15:55:30,017 DEBUG [ArgsValue.retrieve] {xdm=D:\EduFile\STM32\Ytest\Ytest.wb_def, updftl=templates/wb_ioc_mc-middleware.ftl, mx_timeout=-1, exp=templates/wb-defines_where_and_what.txt, ioc=D:\EduFile\STM32\Ytest\Ytest.ioc, pack=../../../../Middlewares/ST/MotorControl, ftl=templates/wb_ioc_template.ftl}
+2025-05-11 15:55:30,106 DEBUG [Main.run] Targeted MCU family = G4
+2025-05-11 15:55:30,140 DEBUG [Main.run] Minimum associated CubeMx to the `G4` targeted MCU family is `5.2.0-a0`
+2025-05-11 15:55:30,166 DEBUG [WindowsCubeMxFinder.lambda$findThem$2] Found 64-bit subkey HKEY_LOCAL_MACHINE\~~~\Uninstall\STM32CubeMX
+2025-05-11 15:55:30,176 DEBUG [CubeMxCtx.EXE_version] Loaded path: 'D:\Program Files\STMicroelectronics\STM32Cube\STM32CubeMX\STM32CubeMX.exe'
+2025-05-11 15:55:30,176 DEBUG [CubeMxCtx.EXE_version] Loaded updater jar: 'D:\Program Files\STMicroelectronics\STM32Cube\STM32CubeMX\plugins\updater.jar'
+2025-05-11 15:55:30,197 DEBUG [CubeMxCtx.EXE_version] Loaded path: 'D:\Program Files\STMicroelectronics\STM32Cube\STM32CubeMX\STM32CubeMX.exe'
+2025-05-11 15:55:30,197 DEBUG [CubeMxCtx.EXE_version] Loaded updater jar: 'D:\Program Files\STMicroelectronics\STM32Cube\STM32CubeMX\plugins\updater.jar'
+2025-05-11 15:55:30,224 DEBUG [CubeMxCtx.EXE_version] Loaded path: 'D:\Program Files\STMicroelectronics\STM32Cube\STM32CubeMX\STM32CubeMX.exe'
+2025-05-11 15:55:30,224 DEBUG [CubeMxCtx.EXE_version] Loaded updater jar: 'D:\Program Files\STMicroelectronics\STM32Cube\STM32CubeMX\plugins\updater.jar'
+2025-05-11 15:55:36,002 DEBUG [CubeMxCtx.EXE_version] Loaded path: 'D:\Program Files\STMicroelectronics\STM32Cube\STM32CubeMX\STM32CubeMX.exe'
+2025-05-11 15:55:36,002 DEBUG [CubeMxCtx.EXE_version] Loaded updater jar: 'D:\Program Files\STMicroelectronics\STM32Cube\STM32CubeMX\plugins\updater.jar'
+2025-05-11 15:55:36,061 DEBUG [EnvironmentChecker.checkPack] STM32CubeMX.Version: 6.4.0-RC4
+2025-05-11 15:55:40,103 DEBUG [MxUpdaterValidator.lambda$getVerifiedRepositoryFolder$e68017fb$1] Repository Folder Exist: C:\Users\79489\STM32Cube\Repository
+2025-05-11 15:55:40,110 DEBUG [RetrieveFirmwareVersion.from_PackConfig_xfile] Looking for version from MotorControl_Configs.xml: D:\Program Files (x86)\STMicroelectronics\MC_SDK_5.Y.4\Middlewares\ST\MotorControl\MotorControl_Configs.xml
+2025-05-11 15:55:40,139 DEBUG [RetrieveFirmwareVersion.minimum_supporte_version] minimum_supporte_version MotorControlFirmware.Version: 5.Y.4
+2025-05-11 15:55:40,144 DEBUG [PackInfoFactory.deploy_MCPack_to_MxRepo] Deployment strategy class: VersionedFolderStyle_MCPackDeployer
+2025-05-11 15:55:40,146 DEBUG [PackInfoFactory.deploy_MCPack_to_MxRepo] Expected MC Pack 5.Y.4-Full already deployed
+2025-05-11 15:55:40,172 DEBUG [DataSetUpdater.update] Updating data set
+2025-05-11 15:55:40,172 DEBUG [DataSetUpdater.update] Update done
+2025-05-11 15:55:40,173 INFO  [IocGenerator.logModulesVersionInfo] Version info: 
+2025-05-11 15:55:40,201 INFO  [IocGenerator.logModulesVersionInfo]   MC Workbench       : 5.Y.4.21553
+2025-05-11 15:55:40,202 INFO  [IocGenerator.logModulesVersionInfo]   WB_to_Mx           : 1.6.0.template-22-01-11
+2025-05-11 15:55:40,202 INFO  [IocGenerator.logModulesVersionInfo]   STM32CubeMX        : 6.4.0
+2025-05-11 15:55:40,202 INFO  [IocGenerator.logModulesVersionInfo]   MC Firmware Library: 5.Y.4-Full
+2025-05-11 15:55:40,202 INFO  [IocGenerator.logModulesVersionInfo] Generation options: 
+2025-05-11 15:55:40,202 INFO  [IocGenerator.logModulesVersionInfo]   Target Toolchain   : ST STM32CubeIDE
+2025-05-11 15:55:40,203 INFO  [IocGenerator.logModulesVersionInfo]   Target Driver      : HAL - Hardware Abstraction Layer
+2025-05-11 15:55:40,203 INFO  [IocGenerator.logModulesVersionInfo]   Target STM32 FW    : 1.5.0
+
+2025-05-11 15:55:40,204 DEBUG [IocGenerator.process] Generating ioc file: D:\EduFile\STM32\Ytest\Ytest.ioc
+2025-05-11 15:55:40,205 DEBUG [IocGenerator.createOutput] Generating file from template templates\wb_ioc_template.ftl
+2025-05-11 15:55:41,769 DEBUG [IocGenerator.process] Generated ioc file D:\EduFile\STM32\Ytest\Ytest.ioc
+2025-05-11 15:55:41,771 INFO  [LineInfo_to_exitCode.log_LineInfo] Generated ioc: D:\EduFile\STM32\Ytest\Ytest.ioc
+2025-05-11 15:55:41,795 INFO  [Wb2MxProcess.lambda$create_extSettings_file_in$82c805cd$1] Generated D:\EduFile\STM32\Ytest\.extSettings
+2025-05-11 15:55:41,801 INFO  [Wb2MxProcess.lambda$run$$5] 
+Started STM32CubeMX for final c-code generation
+2025-05-11 15:55:42,192 DEBUG [CubeMxRunner.create_code_generation_script_for] Generated CubeMx script file: C:\Users\79489\AppData\Local\Temp\WB_to_Mx-ytest-12429605018253851142.script
+2025-05-11 15:55:42,526 DEBUG [LineInfo_to_exitCode.log_LineInfo] 2025-05-11 15:55:42,523 [INFO] MicroXplorer:88 - [MX] MX Start == 765724993463700
+2025-05-11 15:55:42,526 DEBUG [LineInfo_to_exitCode.log_LineInfo] 2025-05-11 15:55:42,526 [INFO] MicroXplorer:632 - Detected Java Version = 11.0.10
+2025-05-11 15:55:42,549 DEBUG [LineInfo_to_exitCode.log_LineInfo] 2025-05-11 15:55:42,549 [INFO] ApplicationProperties:181 - Using Application install path: D:\Program Files\STMicroelectronics\STM32Cube\STM32CubeMX
+2025-05-11 15:55:42,562 DEBUG [LineInfo_to_exitCode.log_LineInfo] 2025-05-11 15:55:42,560 [INFO] DbMcusXml:74 - Set database path to: D:\Program Files\STMicroelectronics\STM32Cube\STM32CubeMX\\db\/mcu/
+2025-05-11 15:55:42,564 DEBUG [LineInfo_to_exitCode.log_LineInfo] 2025-05-11 15:55:42,564 [INFO] DbBoardsPdsc:56 - Set plugin database path to: D:\Program Files\STMicroelectronics\STM32Cube\STM32CubeMX\\db\/plugins/boardmanager/
+2025-05-11 15:55:42,565 DEBUG [LineInfo_to_exitCode.log_LineInfo] 2025-05-11 15:55:42,565 [INFO] DbMcus:258 - Set plugin images path to: D:\Program Files\STMicroelectronics\STM32Cube\STM32CubeMX\\db\/plugins/mcufinder/images/
+2025-05-11 15:55:42,566 DEBUG [LineInfo_to_exitCode.log_LineInfo] 2025-05-11 15:55:42,565 [INFO] DbBoards:264 - Set plugin images path to: D:\Program Files\STMicroelectronics\STM32Cube\STM32CubeMX\\db\/plugins/mcufinder/images/
+2025-05-11 15:55:42,568 DEBUG [LineInfo_to_exitCode.log_LineInfo] 2025-05-11 15:55:42,567 [INFO] DbExamples:332 - Set plugin images path to: D:\Program Files\STMicroelectronics\STM32Cube\STM32CubeMX\\db\/plugins/mcufinder/images/
+2025-05-11 15:55:42,579 DEBUG [LineInfo_to_exitCode.log_LineInfo] 2025-05-11 15:55:42,578 [INFO] McuFinderGlobals:39 - Set McuFinder mode to 1 (CubeMX integrated)
+2025-05-11 15:55:42,603 DEBUG [LineInfo_to_exitCode.log_LineInfo] 2025-05-11 15:55:42,603 [INFO] DbMcusAds:119 - Set database path to: C:\Users\79489\.stmcufinder\plugins\mcufinder//mcu/
+2025-05-11 15:55:42,604 DEBUG [LineInfo_to_exitCode.log_LineInfo] 2025-05-11 15:55:42,604 [INFO] DbMcusDocs:110 - Set database path to: C:\Users\79489\.stmcufinder\plugins\mcufinder//mcu/
+2025-05-11 15:55:42,605 DEBUG [LineInfo_to_exitCode.log_LineInfo] 2025-05-11 15:55:42,605 [INFO] DbMcusJson:64 - Set database path to: C:\Users\79489\.stmcufinder\plugins\mcufinder//mcu/
+2025-05-11 15:55:42,606 DEBUG [LineInfo_to_exitCode.log_LineInfo] 2025-05-11 15:55:42,606 [INFO] DbBoardsDocs:110 - Set database path to: C:\Users\79489\.stmcufinder\plugins\mcufinder//mcu/
+2025-05-11 15:55:42,607 DEBUG [LineInfo_to_exitCode.log_LineInfo] 2025-05-11 15:55:42,607 [INFO] DbBoardsJson:57 - Set database path to: C:\Users\79489\.stmcufinder\plugins\mcufinder//mcu/
+2025-05-11 15:55:42,634 DEBUG [LineInfo_to_exitCode.log_LineInfo] 2025-05-11 15:55:42,633 [INFO] CrossReferenceDbSqlite:196 - Set database path to: C:\Users\79489\.stmcufinder\plugins\mcufinder//mcu/cs/
+2025-05-11 15:55:42,637 DEBUG [LineInfo_to_exitCode.log_LineInfo] 2025-05-11 15:55:42,636 [INFO] DbExamplesSqlite:764 - Set database path to: C:\Users\79489\.stmcufinder\plugins\mcufinder//mcu/
+2025-05-11 15:55:42,822 DEBUG [LineInfo_to_exitCode.log_LineInfo] 2025-05-11 15:55:42,822 [INFO] RulesReader:57 - Compatibility file has been processed (244 Rules)
+2025-05-11 15:55:42,869 DEBUG [LineInfo_to_exitCode.log_LineInfo] 2025-05-11 15:55:42,868 [INFO] STM32CubeMX:55 - Starting STM32CubeMX
+2025-05-11 15:55:43,591 DEBUG [LineInfo_to_exitCode.log_LineInfo] 2025-05-11 15:55:43,591 [INFO] MainPanel:220 - HeapMemory: 264241152
+2025-05-11 15:55:43,741 DEBUG [LineInfo_to_exitCode.log_LineInfo] 2025-05-11 15:55:43,740 [INFO] DbMcusXml:74 - Set database path to: D:\Program Files\STMicroelectronics\STM32Cube\STM32CubeMX\\db\/mcu/
+2025-05-11 15:55:43,741 DEBUG [LineInfo_to_exitCode.log_LineInfo] 2025-05-11 15:55:43,741 [INFO] DbBoardsPdsc:56 - Set plugin database path to: D:\Program Files\STMicroelectronics\STM32Cube\STM32CubeMX\\db\/plugins/boardmanager/
+2025-05-11 15:55:43,741 DEBUG [LineInfo_to_exitCode.log_LineInfo] 2025-05-11 15:55:43,741 [INFO] DbMcus:258 - Set plugin images path to: D:\Program Files\STMicroelectronics\STM32Cube\STM32CubeMX\\db\/plugins/mcufinder/images/
+2025-05-11 15:55:43,741 DEBUG [LineInfo_to_exitCode.log_LineInfo] 2025-05-11 15:55:43,741 [INFO] DbBoards:264 - Set plugin images path to: D:\Program Files\STMicroelectronics\STM32Cube\STM32CubeMX\\db\/plugins/mcufinder/images/
+2025-05-11 15:55:43,741 DEBUG [LineInfo_to_exitCode.log_LineInfo] 2025-05-11 15:55:43,741 [INFO] DbExamples:332 - Set plugin images path to: D:\Program Files\STMicroelectronics\STM32Cube\STM32CubeMX\\db\/plugins/mcufinder/images/
+2025-05-11 15:55:43,743 DEBUG [LineInfo_to_exitCode.log_LineInfo] 2025-05-11 15:55:43,743 [INFO] DbMcusAds:119 - Set database path to: C:\Users\79489\.stmcufinder\plugins\mcufinder//mcu/
+2025-05-11 15:55:43,744 DEBUG [LineInfo_to_exitCode.log_LineInfo] 2025-05-11 15:55:43,744 [INFO] DbMcusDocs:110 - Set database path to: C:\Users\79489\.stmcufinder\plugins\mcufinder//mcu/
+2025-05-11 15:55:43,744 DEBUG [LineInfo_to_exitCode.log_LineInfo] 2025-05-11 15:55:43,744 [INFO] DbMcusJson:64 - Set database path to: C:\Users\79489\.stmcufinder\plugins\mcufinder//mcu/
+2025-05-11 15:55:43,744 DEBUG [LineInfo_to_exitCode.log_LineInfo] 2025-05-11 15:55:43,744 [INFO] DbBoardsDocs:110 - Set database path to: C:\Users\79489\.stmcufinder\plugins\mcufinder//mcu/
+2025-05-11 15:55:43,744 DEBUG [LineInfo_to_exitCode.log_LineInfo] 2025-05-11 15:55:43,744 [INFO] DbBoardsJson:57 - Set database path to: C:\Users\79489\.stmcufinder\plugins\mcufinder//mcu/
+2025-05-11 15:55:43,745 DEBUG [LineInfo_to_exitCode.log_LineInfo] 2025-05-11 15:55:43,745 [INFO] CrossReferenceDbSqlite:196 - Set database path to: C:\Users\79489\.stmcufinder\plugins\mcufinder//mcu/cs/
+2025-05-11 15:55:43,745 DEBUG [LineInfo_to_exitCode.log_LineInfo] 2025-05-11 15:55:43,745 [INFO] DbExamplesSqlite:764 - Set database path to: C:\Users\79489\.stmcufinder\plugins\mcufinder//mcu/
+2025-05-11 15:55:43,770 DEBUG [LineInfo_to_exitCode.log_LineInfo] 2025-05-11 15:55:43,770 [INFO] ApplicationProperties:181 - Using Application install path: D:\Program Files\STMicroelectronics\STM32Cube\STM32CubeMX
+2025-05-11 15:55:43,772 DEBUG [LineInfo_to_exitCode.log_LineInfo] 2025-05-11 15:55:43,772 [INFO] PluginManage:188 - Search for loadable plugins [exclusion list=, ]
+2025-05-11 15:55:43,774 DEBUG [LineInfo_to_exitCode.log_LineInfo] 2025-05-11 15:55:43,774 [INFO] PluginManage:302 - Check plugin analytics
+2025-05-11 15:55:47,027 DEBUG [CubeMxCtx.EXE_version] Loaded path: 'D:\Program Files\STMicroelectronics\STM32Cube\STM32CubeMX\STM32CubeMX.exe'
+2025-05-11 15:55:47,028 DEBUG [CubeMxCtx.EXE_version] Loaded updater jar: 'D:\Program Files\STMicroelectronics\STM32Cube\STM32CubeMX\plugins\updater.jar'
+2025-05-11 16:04:40,514 ERROR [Main.lambda$run$0] Generic error
+2025-05-11 16:04:40,515 DEBUG [Main.lambda$run$0] System exists with return code 2

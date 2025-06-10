@@ -1,0 +1,3 @@
+D:/EduFile/STM32/Ytest/Src/dac.c:30:6:MX_DAC1_Init	3
+D:/EduFile/STM32/Ytest/Src/dac.c:70:6:HAL_DAC_MspInit	2
+D:/EduFile/STM32/Ytest/Src/dac.c:97:6:HAL_DAC_MspDeInit	2

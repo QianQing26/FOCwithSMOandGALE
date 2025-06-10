@@ -1,0 +1,10 @@
+D:/EduFile/STM32/Ytest/Src/aspep.c:163:6:ASPEP_start	16	static
+D:/EduFile/STM32/Ytest/Src/aspep.c:185:6:ASPEP_sendBeacon	4	static,ignoring_inline_asm
+D:/EduFile/STM32/Ytest/Src/aspep.c:216:6:ASPEP_sendPing	8	static,ignoring_inline_asm
+D:/EduFile/STM32/Ytest/Src/aspep.c:241:6:ASPEP_getBuffer	0	static
+D:/EduFile/STM32/Ytest/Src/aspep.c:304:6:ASPEP_CheckBeacon	28	static
+D:/EduFile/STM32/Ytest/Src/aspep.c:345:9:ASPEP_sendPacket	16	static,ignoring_inline_asm
+D:/EduFile/STM32/Ytest/Src/aspep.c:518:6:ASPEP_HWDataTransmittedIT	8	static,ignoring_inline_asm
+D:/EduFile/STM32/Ytest/Src/aspep.c:586:10:ASPEP_RXframeProcess	32	static,ignoring_inline_asm
+D:/EduFile/STM32/Ytest/Src/aspep.c:740:6:ASPEP_HWDataReceivedIT	8	static
+D:/EduFile/STM32/Ytest/Src/aspep.c:829:6:ASPEP_HWDMAReset	0	static

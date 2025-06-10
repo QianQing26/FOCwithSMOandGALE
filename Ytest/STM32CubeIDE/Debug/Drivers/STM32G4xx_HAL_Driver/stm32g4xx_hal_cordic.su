@@ -1,0 +1,17 @@
+D:/EduFile/STM32/Ytest/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cordic.c:325:13:HAL_CORDIC_MspInit	0	static
+D:/EduFile/STM32/Ytest/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cordic.c:201:19:HAL_CORDIC_Init	8	static
+D:/EduFile/STM32/Ytest/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cordic.c:340:13:HAL_CORDIC_MspDeInit	0	static
+D:/EduFile/STM32/Ytest/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cordic.c:268:19:HAL_CORDIC_DeInit	8	static
+D:/EduFile/STM32/Ytest/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cordic.c:558:19:HAL_CORDIC_Configure	4	static
+D:/EduFile/STM32/Ytest/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cordic.c:605:19:HAL_CORDIC_Calculate	32	static
+D:/EduFile/STM32/Ytest/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cordic.c:699:19:HAL_CORDIC_CalculateZO	32	static
+D:/EduFile/STM32/Ytest/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cordic.c:792:19:HAL_CORDIC_Calculate_IT	8	static
+D:/EduFile/STM32/Ytest/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cordic.c:884:19:HAL_CORDIC_Calculate_DMA	24	static
+D:/EduFile/STM32/Ytest/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cordic.c:1052:13:HAL_CORDIC_ErrorCallback	0	static
+D:/EduFile/STM32/Ytest/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cordic.c:1320:13:CORDIC_DMAError	8	static
+D:/EduFile/STM32/Ytest/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cordic.c:1068:13:HAL_CORDIC_CalculateCpltCallback	0	static
+D:/EduFile/STM32/Ytest/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cordic.c:1260:13:CORDIC_DMAInCplt	8	static
+D:/EduFile/STM32/Ytest/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cordic.c:1292:13:CORDIC_DMAOutCplt	8	static
+D:/EduFile/STM32/Ytest/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cordic.c:1101:6:HAL_CORDIC_IRQHandler	16	static
+D:/EduFile/STM32/Ytest/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cordic.c:1172:25:HAL_CORDIC_GetState	0	static
+D:/EduFile/STM32/Ytest/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cordic.c:1185:10:HAL_CORDIC_GetError	0	static

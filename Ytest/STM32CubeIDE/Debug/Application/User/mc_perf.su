@@ -1,0 +1,9 @@
+D:/EduFile/STM32/Ytest/Src/mc_perf.c:23:7:MC_Perf_Measure_Init	0	static
+D:/EduFile/STM32/Ytest/Src/mc_perf.c:45:7:MC_Perf_Clear	0	static
+D:/EduFile/STM32/Ytest/Src/mc_perf.c:63:7:MC_Perf_Measure_Start	0	static
+D:/EduFile/STM32/Ytest/Src/mc_perf.c:74:7:MC_BG_Perf_Measure_Start	0	static
+D:/EduFile/STM32/Ytest/Src/mc_perf.c:87:7:MC_Perf_Measure_Stop	4	static
+D:/EduFile/STM32/Ytest/Src/mc_perf.c:120:7:MC_BG_Perf_Measure_Stop	4	static
+D:/EduFile/STM32/Ytest/Src/mc_perf.c:153:7:MC_Perf_GetCPU_Load	0	static
+D:/EduFile/STM32/Ytest/Src/mc_perf.c:169:7:MC_Perf_GetMaxCPU_Load	0	static
+D:/EduFile/STM32/Ytest/Src/mc_perf.c:185:7:MC_Perf_GetMinCPU_Load	0	static

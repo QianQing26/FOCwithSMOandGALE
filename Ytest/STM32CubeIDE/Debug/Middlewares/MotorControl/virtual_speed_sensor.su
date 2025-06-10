@@ -1,0 +1,13 @@
+D:/EduFile/STM32/Ytest/MCSDK_v5.Y.4-Full/MotorControl/MCSDK/MCLib/Any/Src/virtual_speed_sensor.c:67:13:VSS_Clear	0	static
+D:/EduFile/STM32/Ytest/MCSDK_v5.Y.4-Full/MotorControl/MCSDK/MCLib/Any/Src/virtual_speed_sensor.c:53:13:VSS_Init	8	static
+D:/EduFile/STM32/Ytest/MCSDK_v5.Y.4-Full/MotorControl/MCSDK/MCLib/Any/Src/virtual_speed_sensor.c:121:16:VSS_CalcElAngle	12	static
+D:/EduFile/STM32/Ytest/MCSDK_v5.Y.4-Full/MotorControl/MCSDK/MCLib/Any/Src/virtual_speed_sensor.c:231:13:VSS_CalcAvrgMecSpeedUnit	4	static
+D:/EduFile/STM32/Ytest/MCSDK_v5.Y.4-Full/MotorControl/MCSDK/MCLib/Any/Src/virtual_speed_sensor.c:295:13:VSS_SetMecAngle	0	static
+D:/EduFile/STM32/Ytest/MCSDK_v5.Y.4-Full/MotorControl/MCSDK/MCLib/Any/Src/virtual_speed_sensor.c:325:14:VSS_SetMecAcceleration	8	static
+D:/EduFile/STM32/Ytest/MCSDK_v5.Y.4-Full/MotorControl/MCSDK/MCLib/Any/Src/virtual_speed_sensor.c:395:13:VSS_RampCompleted	0	static
+D:/EduFile/STM32/Ytest/MCSDK_v5.Y.4-Full/MotorControl/MCSDK/MCLib/Any/Src/virtual_speed_sensor.c:426:17:VSS_GetLastRampFinalSpeed	0	static
+D:/EduFile/STM32/Ytest/MCSDK_v5.Y.4-Full/MotorControl/MCSDK/MCLib/Any/Src/virtual_speed_sensor.c:446:13:VSS_SetStartTransition	0	static
+D:/EduFile/STM32/Ytest/MCSDK_v5.Y.4-Full/MotorControl/MCSDK/MCLib/Any/Src/virtual_speed_sensor.c:479:13:VSS_IsTransitionOngoing	0	static
+D:/EduFile/STM32/Ytest/MCSDK_v5.Y.4-Full/MotorControl/MCSDK/MCLib/Any/Src/virtual_speed_sensor.c:513:13:VSS_TransitionEnded	0	static
+D:/EduFile/STM32/Ytest/MCSDK_v5.Y.4-Full/MotorControl/MCSDK/MCLib/Any/Src/virtual_speed_sensor.c:527:13:VSS_SetCopyObserver	0	static
+D:/EduFile/STM32/Ytest/MCSDK_v5.Y.4-Full/MotorControl/MCSDK/MCLib/Any/Src/virtual_speed_sensor.c:549:13:VSS_SetElAngle	0	static

@@ -1,0 +1,5 @@
+../Application/User/GALE.c:36:6:GALE_Init	1
+../Application/User/GALE.c:64:7:GALE_Update	5
+../Application/User/GALE.c:136:9:GetGALESpeed	2
+../Application/User/GALE.c:145:9:GetGALEInput	1
+../Application/User/GALE.c:149:6:GALE_Reset	1

@@ -1,0 +1,6 @@
+../Application/User/smo.c:18:6:SMO_InitFromSTO	16	static
+../Application/User/smo.c:52:6:SMO_CopyFromSTO	12	static
+../Application/User/smo.c:83:9:SMO_PLL_CalcSpeed	56	static
+../Application/User/smo.c:320:9:SMO_ExecutePLL	24	static
+../Application/User/smo.c:353:9:SMO_GetSpeed	0	static
+../Application/User/smo.c:358:9:saturation	0	static

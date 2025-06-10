@@ -1,0 +1,7 @@
+D:/EduFile/STM32/Ytest/MCSDK_v5.Y.4-Full/MotorControl/MCSDK/MCLib/Any/Src/ramp_ext_mngr.c:44:6:REMNG_Init	0	static
+D:/EduFile/STM32/Ytest/MCSDK_v5.Y.4-Full/MotorControl/MCSDK/MCLib/Any/Src/ramp_ext_mngr.c:82:16:REMNG_Calc	4	static
+D:/EduFile/STM32/Ytest/MCSDK_v5.Y.4-Full/MotorControl/MCSDK/MCLib/Any/Src/ramp_ext_mngr.c:230:16:REMNG_GetValue	0	static
+D:/EduFile/STM32/Ytest/MCSDK_v5.Y.4-Full/MotorControl/MCSDK/MCLib/Any/Src/ramp_ext_mngr.c:251:13:REMNG_RampCompleted	0	static
+D:/EduFile/STM32/Ytest/MCSDK_v5.Y.4-Full/MotorControl/MCSDK/MCLib/Any/Src/ramp_ext_mngr.c:282:13:REMNG_StopRamp	0	static
+D:/EduFile/STM32/Ytest/MCSDK_v5.Y.4-Full/MotorControl/MCSDK/MCLib/Any/Src/ramp_ext_mngr.c:306:17:getScalingFactor	0	static
+D:/EduFile/STM32/Ytest/MCSDK_v5.Y.4-Full/MotorControl/MCSDK/MCLib/Any/Src/ramp_ext_mngr.c:140:13:REMNG_ExecRamp	32	static

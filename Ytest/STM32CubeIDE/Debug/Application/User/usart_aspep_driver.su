@@ -1,0 +1,6 @@
+D:/EduFile/STM32/Ytest/Src/usart_aspep_driver.c:30:6:UASPEP_INIT	12	static,ignoring_inline_asm
+D:/EduFile/STM32/Ytest/Src/usart_aspep_driver.c:37:6:UASPEP_DAMCONFIG_TX	4	static,ignoring_inline_asm
+D:/EduFile/STM32/Ytest/Src/usart_aspep_driver.c:68:6:UASPEP_DAMCONFIG_RX	12	static,ignoring_inline_asm
+D:/EduFile/STM32/Ytest/Src/usart_aspep_driver.c:97:6:UASPEP_SEND_PACKET	8	static
+D:/EduFile/STM32/Ytest/Src/usart_aspep_driver.c:116:6:UASPEP_RECEIVE_BUFFER	8	static
+D:/EduFile/STM32/Ytest/Src/usart_aspep_driver.c:126:6:UASPEP_IDLE_ENABLE	0	static,ignoring_inline_asm

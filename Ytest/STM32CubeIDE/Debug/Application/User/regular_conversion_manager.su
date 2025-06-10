@@ -1,0 +1,10 @@
+D:/EduFile/STM32/Ytest/Src/regular_conversion_manager.c:205:9:RCM_RegisterRegConv	12	static
+D:/EduFile/STM32/Ytest/Src/regular_conversion_manager.c:168:9:RCM_RegisterRegConv_WithCB	16	static
+D:/EduFile/STM32/Ytest/Src/regular_conversion_manager.c:312:10:RCM_ExecRegularConv	8	static
+D:/EduFile/STM32/Ytest/Src/regular_conversion_manager.c:429:6:RCM_RequestUserConv	0	static
+D:/EduFile/STM32/Ytest/Src/regular_conversion_manager.c:454:10:RCM_GetUserConv	0	static
+D:/EduFile/STM32/Ytest/Src/regular_conversion_manager.c:476:6:RCM_ExecUserConv	16	static
+D:/EduFile/STM32/Ytest/Src/regular_conversion_manager.c:516:21:RCM_GetUserConvState	0	static
+D:/EduFile/STM32/Ytest/Src/regular_conversion_manager.c:538:6:RCM_PauseRegularConv	0	static
+D:/EduFile/STM32/Ytest/Src/regular_conversion_manager.c:584:6:RCM_ExecNextConv	8	static
+D:/EduFile/STM32/Ytest/Src/regular_conversion_manager.c:626:6:RCM_ReadOngoingConv	8	static

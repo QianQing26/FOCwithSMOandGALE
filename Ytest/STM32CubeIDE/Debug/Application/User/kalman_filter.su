@@ -1,0 +1,5 @@
+../Application/User/kalman_filter.c:17:6:kf_init	0	static
+../Application/User/kalman_filter.c:26:6:kf_update	8	static
+../Application/User/kalman_filter.c:44:7:kf_GetFilteredSpeed	0	static
+../Application/User/kalman_filter.c:48:9:kf_GetFilteredSpeedInt16	0	static
+../Application/User/kalman_filter.c:53:6:kf_ClearSpeed	0	static
